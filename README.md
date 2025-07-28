@@ -1,90 +1,184 @@
 ## Hi there 👋
+![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+# 👋 Hello, I'm Aman Pratap Singh! You can also call me Aman! 🚀
+
+A Computer Science undergraduate at Chaudhary Charan Singh University Meerut, Uttar-Pradesh. I have a keen interest in machine learning, algorithms, full-stack development, and cryptography. Actively involved in various projects and research initiatives in these domains. Always eager to learn and explore more, staying updated with the latest trends and advancements in technology.
+
 <p align="center">
-<img src="https://Harshjais12.github.io/static/images/profile-square.jpg" width="150" alt="Harsh Jaiswal Profile Picture">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?font=Redressed&theme=dark" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Harsh Jaiswal</h1>
+## 🎓 Education
+<table style="width:100%" align="center">
+  <tr>
+    <th>Institution</th>
+    <th>Program</th>
+    <th>Duration</th>
+  </tr>
+  <tr>
+    <td>The Chinese University of Hong Kong, Shenzhen</td>
+    <td>Bachelor of Science in Computer Science & Technology</td>
+    <td>2022 - 2026</td>
+  </tr>
+  <tr>
+    <td>Nanyang Technological University, Singapore</td>
+    <td>Exchange Program in Computer Science</td>
+    <td>Spring 2025</td>
+  </tr>
+</table>
 
-About Me
-👋 I'm a passionate [Your Field/Role, e.g., AI/ML Engineer, Software Developer, Student] with a keen interest in [Machine Learning, Cyber Security, Web Development]. I love exploring new technologies and building impactful solutions that address real-world challenges.
+## 💻 Skills
+<table style="width:100%" align="center">
+  <tr>
+    <th>Operating Systems</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Ubuntu-FCC624?style=flat-square&logo=ubuntu" />
+      <img src="https://img.shields.io/badge/-Mac%20OS-000000.svg?&style=flat-square&logo=apple&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Markup Languages</th>
+    <td>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+      <img src="https://img.shields.io/badge/-Markdown-000000.svg?&style=flat-square&logo=markdown&logoColor=white" />
+      <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+    </td>
+  </tr> 
+  <tr>
+    <th>Programming Languages</th>
+    <td> 
+      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk" />
+      <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript" />
+      <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
+      <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" />
+      <img src="https://img.shields.io/badge/-Rust-8b0000?style=flat-square&logo=rust" />
+      <img src="https://img.shields.io/badge/-Go-5757A8?style=flat-square&logo=go" />
+    </td>
+  </tr>
+  <tr>
+    <th>Frameworks</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Vue.js-000000?style=flat-square&logo=vuedotjs" />
+      <img src="https://img.shields.io/badge/-Flask-ff0000?style=flat-square&logo=flask" />
+      <img src="https://img.shields.io/badge/-Django-006400?style=flat-square&logo=django" />
+    </td>
+  </tr>
+  <tr>
+    <th>Databases</th>
+    <td>
+      <img src="https://img.shields.io/badge/-MongoDB-99ff99?style=flat-square&logo=mongodb" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-316192.svg?&style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Automate, Deploy, Platform & Tools</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git" /> 
+      <img src="https://img.shields.io/badge/-Nginx-009639.svg?&style=flat-square&logo=nginx&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github" />
+    </td>
+  </tr>
+  <tr>
+    <th>Hosting/SaaS/PaaS</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Heroku-430098.svg?&style=flat-square&logo=heroku&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Alibaba%20Cloud-000000.svg?&style=flat-square&logo=alibabacloud" />
+    </td>
+  </tr>
+  <tr>
+    <th>Testing</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Postman-%238D6748?style=flat-square&logo=postman&logoColor=orange" />
+    </td>
+  </tr>
+  <tr>
+    <th>Machine Learning</th>
+    <td>
+      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-🚀 Currently, I'm focusing on [Deep Learning, Machine learning, Generative AI, AI Agents, Backend Development with Python], continuously expanding my knowledge and practical experience.
+## 📞 Get in Touch
 
-🌱 I'm always eager to learn and grow, constantly looking for new challenges and opportunities to expand my skill set and contribute to innovative projects.
+<table style="width:100%" align="center">
+  <tr>
+    <th>Platform</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Website</td>
+    <td>
+      <a href="https://huruilizhen.github.io">
+        <img src="https://img.shields.io/badge/Website-000?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>
+      <a href="https://www.linkedin.com/in/ruilizhen-hu">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>
+      <a href="https://github.com/HuRuilizhen">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>Email</td>
+    <td>
+      <a href="mailto:huruilizhen@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Personal-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email" />
+      </a>
+      <a href="mailto:ruilizhenhu@link.cuhk.edu.cn">
+        <img src="https://img.shields.io/badge/Email-Academic-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Academic Email" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-🚀 My Skill Set: A Detailed Overview
-Here's a breakdown of my technical expertise, highlighting not just the tools I use, but how I apply them to solve real-world problems.
+## 📊 Statistics
+<div style="width:100%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HuRuilizhen&show_icons=true&theme=radical" />
+</div>
 
-💻 Programming & Development
-Python: My primary language for machine learning, data analysis, web development, scripting, and automation. I'm proficient in writing clean, efficient, and well-documented Python code. Experienced with core libraries like Numpy, Pandas, Matplotlib, and Scikit-learn, as well as frameworks for specific applications.
+## 🏆 Achievements
+<table style="width:100%" align="center">
+  <tr>
+    <th>Event</th>
+    <th>Year</th>
+    <th>Award</th>
+  </tr>
+  <tr>
+    <td>National Olympiad in Informatics</td>
+    <td>2021</td>
+    <td>🥉 Bronze Medalist</td>
+  </tr>
+  <tr>
+    <td>China Collegiate Programming Contest 2022 Weihai Regional</td>
+    <td>2022</td>
+    <td>🥈 Silver Medalist</td>
+  </tr>
+</table>
 
-Java: Solid understanding of Object-Oriented Programming (OOP) principles in Java. Experienced in building robust backend applications, enterprise solutions, Android development, and competitive programming with frameworks like [e.g., Spring Boot, Hibernate].
+---
 
-[Add Other Languages, e.g., JavaScript, C++, Go]:
-
-[Language Name]: Briefly describe your proficiency and typical use cases. E.g., "Familiar with JavaScript for frontend development and interacting with APIs, using [e.g., React, Node.js]."
-
-🧠 Machine Learning & Deep Learning
-Core Concepts: Strong grasp of fundamental ML concepts including supervised/unsupervised learning, model evaluation (accuracy, precision, recall, F1-score), bias-variance trade-off, regularization, feature engineering, and dimensionality reduction.
-
-Deep Learning Architectures: Hands-on experience with various neural network architectures such as Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Transformers.
-
-Frameworks: Proficient in using TensorFlow and Keras for building, training, and deploying deep learning models. Familiar with PyTorch for research and rapid prototyping.
-
-Applications: Applied ML/DL skills to projects involving image classification, object detection, natural language processing (NLP), and predictive modeling.
-
-👁️ Computer Vision
-Image Processing: Experienced in image manipulation, pre-processing (resizing, augmentation, normalization), and feature extraction using libraries like OpenCV.
-
-Object Recognition & Classification: Built and fine-tuned models for tasks such as image classification, leveraging techniques like transfer learning with pre-trained models (e.g., VGG16, ResNet).
-
-Real-world Application: Focused on practical applications in domains like [e.g., agricultural tech, medical imaging, surveillance].
-
-🔐 Network Security
-Foundational Concepts: Solid understanding of network protocols (TCP/IP, HTTP, DNS), common network vulnerabilities (e.g., SQL Injection, XSS, DDoS, phishing), and security principles (confidentiality, integrity, availability).
-
-Security Tools & Techniques: Familiarity with tools for network scanning (e.g., Nmap), vulnerability assessment, and packet analysis (e.g., Wireshark). Knowledge of firewalls, intrusion detection/prevention systems (IDS/IPS).
-
-Cryptography: Basic understanding of cryptographic primitives (hashing, encryption, digital signatures) and their application in securing network communications (SSL/TLS, VPNs).
-
-Secure Coding Practices: Awareness of best practices for writing secure code and mitigating common security flaws.
-
-📊 Data Structures & Algorithms (Problem Solving)
-Algorithmic Proficiency: Strong command of core algorithms including searching (binary search), sorting (quick sort, merge sort), graph algorithms (BFS, DFS, Dijkstra's), dynamic programming, recursion, and greedy algorithms.
-
-Data Structures Mastery: In-depth knowledge and practical application of essential data structures such as arrays, linked lists, stacks, queues, hash maps (dictionaries), trees (binary trees, BSTs, AVL trees), and graphs.
-
-Problem Decomposition: Proven ability to break down complex, ambiguous problems into smaller, manageable sub-problems.
-
-Optimization & Efficiency: Focused on developing solutions with optimal time and space complexity, rigorously analyzing performance trade-offs.
-
-Logical & Critical Thinking: Adept at logical reasoning, pattern recognition, and developing creative solutions to novel problems.
-
-Competitive Programming: Actively engage in platforms like Codolio to hone problem-solving skills under timed conditions.
-
-🗄️ Databases & Data Management
-Relational Databases: Proficient in SQL for querying and managing data in relational databases like MySQL. Understanding of database design principles (normalization).
-
-NoSQL Databases: Familiarity with MongoDB for handling unstructured or semi-structured data.
-
-☁️ Cloud & DevOps (If applicable)
-Cloud Platforms: Basic understanding of cloud services on AWS / Azure for [e.g., deploying applications, managing databases, utilizing machine learning services].
-
-Version Control: Expert in Git for collaborative development, branching, merging, and managing code repositories (e.g., GitHub).
-
-Containerization: Familiarity with Docker for creating, deploying, and running applications in isolated environments.
-
-CI/CD: Experience with GitHub Actions for automating testing, building, and deployment pipelines.
-
-My GitHub Stats
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHarshjais12%26show_icons%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue%26title_color%3D007BFF%26icon_color%3D007BFF%26text_color%3D333%26bg_color%3Dffffff" alt="Harsh Jaiswal GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DHarshjais12%26hide_border%3Dtrue%26stroke%3D007BFF%26background%3Dffffff%26ring%3D007BFF%26fire%3D007BFF%26currStreakNum%3D007BFF%26currStreakLabel%3D007BFF%26sideNums%3D007BFF%26sideLabels%3D007BFF%26dates%3D007BFF" alt="Harsh Jaiswal GitHub Streak" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHarshjais12%26layout%3Dcompact%26hide_border%3Dtrue%26title_color%3D007BFF%26icon_color%3D007BFF%26text_color%3D333%26bg_color%3Dffffff" alt="Harsh Jaiswal Top Languages" />
-</p>
-
-Get in Touch!
-Feel free to connect with me if you have any questions, collaboration opportunities, or just want to chat!
+> *Last Updated: [Februaray, 14th, 2025]*
+<!---
+HuRuilizhen/HuRuilizhen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 
 <!-- Add other social links like Twitter, Portfolio, etc. -->
 <!--
