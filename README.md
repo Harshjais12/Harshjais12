@@ -1,63 +1,92 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://rishavanand.github.io/static/images/profile-square.jpg" width="150" alt="Harsh Jaiswal Profile Picture">
+<img src="https://Harshjais12.github.io/static/images/profile-square.jpg" width="150" alt="Harsh Jaiswal Profile Picture">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Harsh Jaiswal</h1>
 
----
+About Me
+👋 I'm a passionate [Your Field/Role, e.g., AI/ML Engineer, Software Developer, Student] with a keen interest in [Machine Learning, Cyber Security, Web Development]. I love exploring new technologies and building impactful solutions that address real-world challenges.
 
-### About Me
+🚀 Currently, I'm focusing on [Deep Learning, Machine learning, Generative AI, AI Agents, Backend Development with Python], continuously expanding my knowledge and practical experience.
 
-👋 I'm a passionate **[Your Field/Role, e.g., AI/ML Engineer, Software Developer, Student]** with a keen interest in **[Mention 2-3 specific interests, e.g., Machine Learning, Cyber Security, Web Development]**. I love exploring new technologies and building impactful solutions.
+🌱 I'm always eager to learn and grow, constantly looking for new challenges and opportunities to expand my skill set and contribute to innovative projects.
 
-🚀 Currently, I'm focusing on **[Your Current Focus, e.g., Deep Learning for Computer Vision, Backend Development with Python, etc.]**.
+🚀 My Skill Set: A Detailed Overview
+Here's a breakdown of my technical expertise, highlighting not just the tools I use, but how I apply them to solve real-world problems.
 
-🌱 I'm always eager to learn and grow, constantly looking for new challenges and opportunities to expand my skill set.
+💻 Programming & Development
+Python: My primary language for machine learning, data analysis, web development, scripting, and automation. I'm proficient in writing clean, efficient, and well-documented Python code. Experienced with core libraries like Numpy, Pandas, Matplotlib, and Scikit-learn, as well as frameworks for specific applications.
 
----
+Java: Solid understanding of Object-Oriented Programming (OOP) principles in Java. Experienced in building robust backend applications, enterprise solutions, Android development, and competitive programming with frameworks like [e.g., Spring Boot, Hibernate].
 
-### 💻 Technologies & Tools
+[Add Other Languages, e.g., JavaScript, C++, Go]:
 
-Here are some of the technologies and tools I frequently work with:
+[Language Name]: Briefly describe your proficiency and typical use cases. E.g., "Familiar with JavaScript for frontend development and interacting with APIs, using [e.g., React, Node.js]."
 
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-**Frameworks & Libraries:**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-**Databases:**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
----
+🧠 Machine Learning & Deep Learning
+Core Concepts: Strong grasp of fundamental ML concepts including supervised/unsupervised learning, model evaluation (accuracy, precision, recall, F1-score), bias-variance trade-off, regularization, feature engineering, and dimensionality reduction.
 
-### My GitHub Stats
+Deep Learning Architectures: Hands-on experience with various neural network architectures such as Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Transformers.
 
+Frameworks: Proficient in using TensorFlow and Keras for building, training, and deploying deep learning models. Familiar with PyTorch for research and rapid prototyping.
+
+Applications: Applied ML/DL skills to projects involving image classification, object detection, natural language processing (NLP), and predictive modeling.
+
+👁️ Computer Vision
+Image Processing: Experienced in image manipulation, pre-processing (resizing, augmentation, normalization), and feature extraction using libraries like OpenCV.
+
+Object Recognition & Classification: Built and fine-tuned models for tasks such as image classification, leveraging techniques like transfer learning with pre-trained models (e.g., VGG16, ResNet).
+
+Real-world Application: Focused on practical applications in domains like [e.g., agricultural tech, medical imaging, surveillance].
+
+🔐 Network Security
+Foundational Concepts: Solid understanding of network protocols (TCP/IP, HTTP, DNS), common network vulnerabilities (e.g., SQL Injection, XSS, DDoS, phishing), and security principles (confidentiality, integrity, availability).
+
+Security Tools & Techniques: Familiarity with tools for network scanning (e.g., Nmap), vulnerability assessment, and packet analysis (e.g., Wireshark). Knowledge of firewalls, intrusion detection/prevention systems (IDS/IPS).
+
+Cryptography: Basic understanding of cryptographic primitives (hashing, encryption, digital signatures) and their application in securing network communications (SSL/TLS, VPNs).
+
+Secure Coding Practices: Awareness of best practices for writing secure code and mitigating common security flaws.
+
+📊 Data Structures & Algorithms (Problem Solving)
+Algorithmic Proficiency: Strong command of core algorithms including searching (binary search), sorting (quick sort, merge sort), graph algorithms (BFS, DFS, Dijkstra's), dynamic programming, recursion, and greedy algorithms.
+
+Data Structures Mastery: In-depth knowledge and practical application of essential data structures such as arrays, linked lists, stacks, queues, hash maps (dictionaries), trees (binary trees, BSTs, AVL trees), and graphs.
+
+Problem Decomposition: Proven ability to break down complex, ambiguous problems into smaller, manageable sub-problems.
+
+Optimization & Efficiency: Focused on developing solutions with optimal time and space complexity, rigorously analyzing performance trade-offs.
+
+Logical & Critical Thinking: Adept at logical reasoning, pattern recognition, and developing creative solutions to novel problems.
+
+Competitive Programming: Actively engage in platforms like Codolio to hone problem-solving skills under timed conditions.
+
+🗄️ Databases & Data Management
+Relational Databases: Proficient in SQL for querying and managing data in relational databases like MySQL. Understanding of database design principles (normalization).
+
+NoSQL Databases: Familiarity with MongoDB for handling unstructured or semi-structured data.
+
+☁️ Cloud & DevOps (If applicable)
+Cloud Platforms: Basic understanding of cloud services on AWS / Azure for [e.g., deploying applications, managing databases, utilizing machine learning services].
+
+Version Control: Expert in Git for collaborative development, branching, merging, and managing code repositories (e.g., GitHub).
+
+Containerization: Familiarity with Docker for creating, deploying, and running applications in isolated environments.
+
+CI/CD: Experience with GitHub Actions for automating testing, building, and deployment pipelines.
+
+My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshjais12&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=333&bg_color=ffffff" alt="Harsh Jaiswal GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshjais12&hide_border=true&stroke=007BFF&background=ffffff&ring=007BFF&fire=007BFF&currStreakNum=007BFF&currStreakLabel=007BFF&sideNums=007BFF&sideLabels=007BFF&dates=007BFF" alt="Harsh Jaiswal GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshjais12&layout=compact&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=333&bg_color=ffffff" alt="Harsh Jaiswal Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHarshjais12%26show_icons%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue%26title_color%3D007BFF%26icon_color%3D007BFF%26text_color%3D333%26bg_color%3Dffffff" alt="Harsh Jaiswal GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DHarshjais12%26hide_border%3Dtrue%26stroke%3D007BFF%26background%3Dffffff%26ring%3D007BFF%26fire%3D007BFF%26currStreakNum%3D007BFF%26currStreakLabel%3D007BFF%26sideNums%3D007BFF%26sideLabels%3D007BFF%26dates%3D007BFF" alt="Harsh Jaiswal GitHub Streak" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHarshjais12%26layout%3Dcompact%26hide_border%3Dtrue%26title_color%3D007BFF%26icon_color%3D007BFF%26text_color%3D333%26bg_color%3Dffffff" alt="Harsh Jaiswal Top Languages" />
 </p>
 
----
-
-### Get in Touch!
-
+Get in Touch!
 Feel free to connect with me if you have any questions, collaboration opportunities, or just want to chat!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_linkedin_profile/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<!-- Add other social links like Twitter, Portfolio, etc. -->
 <!--
 **Harshjais12/Harshjais12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
