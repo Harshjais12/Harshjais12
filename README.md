@@ -1,9 +1,7 @@
 ## Hi there 👋
 ![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<p align="center">
-<img src="https://rishavanand.github.io/static/images/profile-square.jpg" width="150" alt="Harsh Jaiswal Profile Picture">
-</p>
+
 
 <h1 align="center">👋 Hello, I'm Harsh Jaiswal! 🚀</h1>
 
@@ -26,9 +24,9 @@ Always eager to learn and grow, constantly looking for new challenges and opport
 <th>Duration</th>
 </tr>
 <tr>
-<td>[Your University Name, e.g., Chaudhary Charan Singh University Meerut]</td>
-<td>[Your Degree Program, e.g., Bachelor of Technology in Computer Science]</td>
-<td>[Start Year] - [End Year, e.g., 2021 - 2025]</td>
+<td>[ Chaudhary Charan Singh University Meerut]</td>
+<td>[ Bachelor of Technology in Computer Science]</td>
+<td>[2022] - [2026]</td>
 </tr>
 <!-- Add more education entries if applicable -->
 </table>
@@ -162,7 +160,7 @@ Always eager to learn and grow, constantly looking for new challenges and opport
 <tr>
 <td>LinkedIn</td>
 <td>
-<a href="https://www.linkedin.com/in/your_linkedin_profile/">
+<a href="https://www.linkedin.com/in/hj-link1/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </td>
@@ -178,7 +176,7 @@ Always eager to learn and grow, constantly looking for new challenges and opport
 <tr>
 <td>Email</td>
 <td>
-<a href="mailto:your.email@example.com">
+<a href="mailto:hjaiswal180904@gmail.com">
 <img src="https://img.shields.io/badge/Email-Personal-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email" />
 </a>
 <!-- Add academic email if applicable -->
